@@ -1,2 +1,3 @@
-# iNeuron_-Basic-Python
-In this repository are present Python Basic Assignment's ...
+# iNeuron Full Stack Data Science :
+
+1.Python Assignments
